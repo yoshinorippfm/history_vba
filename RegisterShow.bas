@@ -1,0 +1,7 @@
+Attribute VB_Name = "RegisterShow"
+Option Explicit
+
+Sub ƒŒƒW‚Ì•\Ž¦()
+   RegisterForm.Show
+   
+End Sub
